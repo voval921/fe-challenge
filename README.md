@@ -1,6 +1,6 @@
 # TypeScript, Tailwind CSS, GraphQL
 
-This document contains instructions for candidates to follow as part of the Gigaclear Frontend Code Challenge. We look forward to your submission.
+HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 
 ## Stack
 
